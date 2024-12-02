@@ -3,5 +3,5 @@
  "title":"اطلاعیه مهم",
  "description":"متاسفانه پارت جدید فیلترینگ واختلال ها شروع شده،اگه سوال یا مشکلی برای اتصال دارید حتماعضو گروه تلگراممون بشید",
  "download":"tg://resolve?domain=proxiteIegram",
- "buttonno":"yes"
+ "buttonno":"no"
 }
