@@ -1,5 +1,5 @@
 {
- "version":"1.5",
+ "version":"1.0",
  "title":"اطلاعیه مهم",
  "description":"دوست گرامی برای دسترسی به نسخه بروز برنامه های مود شده حتما عضو چنل تلگراممون بشید ",
  "download":"tg://resolve?domain=proxytelegram",
