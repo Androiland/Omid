@@ -1,7 +1,7 @@
 {
- "version":"1.0",
+ "version":"1.9",
  "title":"اطلاعیه مهم",
  "description":"متاسفانه پارت جدید فیلترینگ واختلال ها شروع شده،برای دسترسی به جدیدترین وی پی ان های مودشده حتماعضو کانال تلگراممون شوید ",
- "download":"tg://resolve?domain=Androiland",
- "buttonno":"yes"
+ "download":"tg://resolve?domain=proxytelegram",
+ "buttonno":"no"
 }
