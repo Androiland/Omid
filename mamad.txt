@@ -2,6 +2,6 @@
  "version":"1.9",
  "title":"⚠️اطلاعیه مهـــم⚠️",
  "description":" برای دریافت نسخه بروز فیلترشکن های مود شده(بدون تبلیغ و رایگان) حتما داخل  کانال تلگراممون عضو شوید ❤️  ",
- "download":"tg://resolve?domain=Androiland",
+ "download":"https://t.me/+hEBfGVKK81lmM2Y0",
  "buttonno":"no"
 }
