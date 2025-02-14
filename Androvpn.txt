@@ -2,6 +2,6 @@
  "version":"1.0",
  "title":"اطلاعیه مهم",
  "description":"متاسفانه پارت جدید فیلترینگ واختلال ها شروع شده،برای دسترسی به جدیدترین وی پی ان های مودشده حتماعضو کانال تلگراممون شوید ",
- "download":"tg://resolve?domain=Androiland",
+ "download":"tg://resolve?domain=crypto_signalaf",
  "buttonno":"yes"
 }
