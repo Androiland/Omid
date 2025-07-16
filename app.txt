@@ -2,6 +2,6 @@
  "version":"1.0",
  "title":"اطلاعیه مهم",
  "description":"دوست گرامی برای دسترسی به نسخه بروز برنامه های مود شده حتما عضو چنل تلگراممون بشید ",
- "download":"tg://resolve?domain=proxytelegram",
+ "download":"tg://resolve?domain=Androiland",
  "buttonno":"yes"
 }
