@@ -1,7 +1,7 @@
 {
- "version":"1.0",
+ "version":"1.8",
  "title":"⭕️خبـری فــوری⭕️",
  "description":"پارت جدید فیلترینگ روی وی پی ان ها اعمال شده،برای دسترسی به بهترین فیلترشکن و پروکسی های رایگان حتما عضو کانال تلگراممون شوید❤️",
  "download":"tg://resolve?domain=Vpnfreproxy",
- "buttonno":"yes"
+ "buttonno":"no"
 }
