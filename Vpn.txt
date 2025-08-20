@@ -1,7 +1,7 @@
 {
- "version":"1.8",
+ "version":"1.9",
  "title":"⭕️خبـری فــوری⭕️",
- "description":" فیلترشکن پرسرعت و جدید جهت دانلود کلیک کنید کلی سرور داره ",
+ "description":" فیلترشکن پرسرعت و جدید جهت دانلود روی پیوستن کلیک کنید کلی سرور جدید داره از دست ندین ",
  "download":"https://play.google.com/store/apps/details?id=com.cornvpnnnnnsl.jimboj",
  "buttonno":"no"
 }
