@@ -3,5 +3,5 @@
  "title":"⭕️خبـری فــوری⭕️",
  "description":" پارت جدید فیلترینگ روی وی پی ان ها اعمال شده،برای دسترسی به اینترنت جهانی حتما عضو کانال تلگراممون شوید ",
  "download":"tg://resolve?domain=androiland",
- "buttonno":"yes"
+ "buttonno":"no"
 }
